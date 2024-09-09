@@ -1,3 +1,4 @@
 # Ini adalah repository baru for trainning
 
-Github itu asik lo.
+Belajar Github di Dicoding seru!
+
