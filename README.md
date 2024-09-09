@@ -1,2 +1,1 @@
-# latihan-branch
-Latihan Bangkit Cloud Computing batch 2 2024
+# Ini adalah repository baru for trainning
